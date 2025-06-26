@@ -1,139 +1,39 @@
-# 🌾 Fieldman: Smart Agriculture for Sustainable Growth
-
-
-## 🚩 Problem Statement
-
-Farmers often lack:
-- ✅ Timely crop guidance  
-- ✅ Market price data  
-- ✅ Tools to track crop progress  
-
-> ❌ This leads to low productivity, high uncertainty, and poor profit margins.
+# Intro
+_______________________________________________________________
+...........................Its Akshaya from a non tech degree exploring and creating innovative tech stuff.
+🚀 I’m a builder, developer, and idea explorer—working on powerful tech to shape the future.  
+💡 I love creating apps that solve real-world problems, from fashion marketplaces to blockchain platforms.  
+🌱 Currently exploring Web3, AI, and building full-stack applications using **Node.js**, **React Native**, **Solidity**, and more.
 
 ---
 
-## ✅ Our Solution: Fieldman
+## 🧠 What I’m Into
 
-**Fieldman** is a smart agriculture app that empowers farmers with:
-- Real-time crop guidance  
-- Location-based crop recommendations  
-- A direct link to buyers through a built-in marketplace  
-- Weather-integrated decision-making  
+- 🤖 AI model training & prompt engineering  
+- 🧬 Smart contract development on Ethereum and Polygon  
+- ⚙️ Scalable backend systems with **Node.js, Supabase**
 
 ---
+## 🛠️ Tech Stack
 
-## 👩‍🌾 User Flow (Basic)
-
-> Generated using an AI code generator & deployed with **Vercel**
-
-1. **Login/Signup** (Farmer or Buyer)
-2. **Farmer Dashboard**:
-   - Add field details (location, crop)
-   - Get suggested crops based on region/season
-   - Start tracking crop lifecycle (step-by-step)
-   - Receive weather alerts and farming tips
-   - List harvested crops for sale
-3. **Buyer Dashboard**:
-   - Browse listed produce
-   - View farmer profiles and crop quality
-   - Purchase directly — no middlemen
-
+- **Frontend**: HTML, CSS, JavaScript, FlutterFlow, React, Typescript
+- **Backend**: Node.js, Express, Firebase, Supabase, MongoDb
+- **Blockchain**: Solidity, Hardhat, Ethers.js
+- **Chains**: Ethereum, Polygon, Core, Skale(soon)
+- **Tools**: Git, Postman, VSCode, Figma, Canva, AI development tools
+  
+📩 Email: itz.akshaya001@gmail.com  
+- 🐦 Twitter: @kshaya001 
+- 💬 LinkedIn: 
 ---
-
-## 📊 Cultivation Count System
-
-- Tracks how much of each crop is planted per region  
-- Warns if a crop exceeds the optimal count (per acre/sq. ft)  
-- Sends price risk alerts to avoid market saturation  
-
----
-
-## 🛒 Buyer Features
-
-- 🔍 Browse verified **farmer profiles**
-- 🥕 View real-time **produce listings**
-- 💸 Purchase directly from farms
-
----
-
-## 🔑 Key Features
-
-- 📍 *Geo-based* **crop suggestions**  
-- 📅 *Crop lifecycle* **progress tracking**  
-- ⛈ *Smart weather alerts* for farmers  
-- 💰 *Cost estimator* per crop and land size  
-- 🐛 *AI-powered pest detection* *(future scope)*  
-- 🛍 Built-in **crop marketplace**  
-- 📈 Insights on **previous year’s market prices**  
-- 🧑‍🌾 Farmer **profiles with reviews**
-
----
-
-## 🛠 Tech Stack
-
-- **Frontend**: No-code UI via [Adalo], AI code generators  
-- **Backend (Planned)**: Firebase (Firestore + ML Kit)  
-- **Future**: FlutterFlow + Firebase  
-- **Deployment**:Under Progress
-- **Design**: AI-generated logo and homepage visuals  
-
----
-
-## 🌱 Impact & Scalability
-
-- 🌍 Supports UN Sustainable Development Goals  
-- 🚜 Equips rural farmers with decision-making tools  
-- 🛒 Bridges the gap between **farmers & buyers**  
-- 🌐 Fully localizable and scalable to any region
-
----
-
-## 📈 Market Opportunity
-
-- Over **118M+ farmers** in India  
-- Agriculture contributes **~18% of India's GDP**  
-- Potential to improve productivity by **30–40%**
-
----
-
-## 🧭 Roadmap
-
-### Phase 1 – MVP (Hackathon Build)
-- ✅ Crop tracking with reminders  
-- ✅ Basic marketplace + farmer field data  
-- ✅ Profile creation with crop images
-
-### Phase 2 – Advanced Features
-- 📍 Crop suggestion based on live data  
-- 🧾 Crop cost estimator, soil compatibility  
-- 📷 Image-based AI disease detection  
-- 🌧 Real-time weather alerts  
-- 💬 AI chatbot for farming assistance  
-- 🔐 Verified buyer module & secure transactions  
-
----
-
-## 💬 Why Fieldman?
-
-> Because the **future of agriculture** is smart, local, and in the hands of the people who grow our food.
-
----
-
-## 🙋 About the Creator
-
-- 🛠 Self-taught indie builder
-- 🤖 Uses AI tools for development and design
-- 📚 Learning backend, AI, and UI/UX by building real apps
-- 👨‍💻 Building Fieldman solo — with help from ChatGPT and AI tools
-
----
+**The future isn’t found, it’s built. And I’m here to build it, no buzzwords. Just ideas, execution, and obsession with getting things done.**
 
 
 
-## 🙏 Thank You!
+##  Thank You!
 
-Let’s **grow smarter** — for the farmers, by the builders.  
-Fieldman 🌱
+Let’s **grow smarter** — , by the builders.  
+
 
 ---
 
