@@ -10,7 +10,8 @@
 
 ## 🧠 What I’m Into
 
-- 🤖 AI model training & prompt engineering  
+- 🤖 AI model training & prompt engineering
+- 🚀 
 - 🧬 Smart contract development on Ethereum and Polygon  
 - ⚙️ Scalable backend systems with **Node.js, Supabase**
 
