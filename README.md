@@ -1,6 +1,7 @@
 # Intro
-_______________________________________________________________
+
 ...........................Its Akshaya from a non tech degree exploring and creating innovative tech stuff.
+
 🚀 I’m a builder, developer, and idea explorer—working on powerful tech to shape the future.  
 💡 I love creating apps that solve real-world problems, from fashion marketplaces to blockchain platforms.  
 🌱 Currently exploring Web3, AI, and building full-stack applications using **Node.js**, **React Native**, **Solidity**, and more.
