@@ -11,7 +11,7 @@
 ## 🧠 What I’m Into
 
 - 🤖 AI model training & prompt engineering
-- 🚀 
+- 🚀 Full stack application development. web & mobile
 - 🧬 Smart contract development on Ethereum and Polygon  
 - ⚙️ Scalable backend systems with **Node.js, Supabase**
 
